@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkty_h5"]=self["webpackChunkty_h5"]||[]).push([[506],{5506:function(n,c,t){t.r(c),t.d(c,{default:function(){return f}});var a=t(3396);const e=n=>((0,a.dD)("data-v-4bccdb9a"),n=n(),(0,a.Cn)(),n),d={class:"me"},r=e((()=>(0,a._)("div",null,"该页面暂未实现",-1))),u=[r];function s(n,c){return(0,a.wg)(),(0,a.iD)("div",d,u)}var i=t(89);const v={},b=(0,i.Z)(v,[["render",s],["__scopeId","data-v-4bccdb9a"]]);var f=b}}]);
+//# sourceMappingURL=506.7b80baf6.js.map
